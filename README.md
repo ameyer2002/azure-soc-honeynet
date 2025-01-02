@@ -13,3 +13,10 @@ SecurityAlert (Log Analytics Alerts Triggered)
 SecurityIncident (Incidents created by Sentinel)
 
 AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
+
+# Architecture Before Hardening / Security Controls
+![image](https://github.com/user-attachments/assets/430246dc-734a-4d38-8c36-5fff8dcdc443)
+
+Architecture After Hardening / Security Controls
+![image](https://github.com/user-attachments/assets/b16c471b-cfd2-45d5-80c1-9e1776ac724d)
+
