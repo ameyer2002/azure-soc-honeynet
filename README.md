@@ -56,5 +56,9 @@ Stop Time 2024-12-30 05:05:48
 | SecurityIncident | 55 |
 | AzureNetworkAnalytics_CL | 600 |
 
+# Attack Maps After Hardening / Security Control
+![image](https://github.com/user-attachments/assets/752436f0-b403-467e-8c0a-52ffd433bcb5)
+
+
 
 
