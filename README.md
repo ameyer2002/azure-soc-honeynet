@@ -17,6 +17,23 @@ AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 # Architecture Before Hardening / Security Controls
 ![image](https://github.com/user-attachments/assets/430246dc-734a-4d38-8c36-5fff8dcdc443)
 
-Architecture After Hardening / Security Controls
+# Architecture After Hardening / Security Controls
 ![image](https://github.com/user-attachments/assets/b16c471b-cfd2-45d5-80c1-9e1776ac724d)
 
+The architecture of the mini honeynet in Azure consists of the following:
+
+Virtual Network (VNet)
+
+Network Security Group (NSG)
+
+Virtual Machines (2 windows, 1 linux)
+
+Log Analytics Workspace
+
+Azure Key Vault
+
+Azure Storage Account
+
+Microsoft Sentinel
+
+# Attack Maps Before Hardening / Security Controls
