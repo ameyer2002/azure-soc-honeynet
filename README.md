@@ -37,3 +37,5 @@ Azure Storage Account
 Microsoft Sentinel
 
 # Attack Maps Before Hardening / Security Controls
+![image](https://github.com/user-attachments/assets/c504e1d8-b0b5-4801-8ac3-2e14cfe4ca31)
+
