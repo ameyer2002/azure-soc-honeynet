@@ -44,9 +44,9 @@ Microsoft Sentinel
 # Metrics Before Hardening / Security Controls
 The following table shows the metrics we measured in our insecure environment for 24 hours:
 
-Start Time 2024-12-29 05:05:48
+Start Time 2024-12-29 09:05:48
 
-Stop Time 2024-12-30 05:05:48
+Stop Time 2024-12-30 09:05:48
 
 | Metric | Count |
 | ---- | ---- |
@@ -60,6 +60,14 @@ Stop Time 2024-12-30 05:05:48
 ![image](https://github.com/user-attachments/assets/752436f0-b403-467e-8c0a-52ffd433bcb5)
 
 No map queries were returned 24 hours after hardening.
+
+# Metrics After Hardening / Security Controls
+The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
+
+Start Time 2025-01-01 12:34:01
+
+Stop Time 2025-01-02 12:34:01
+
 
 
 
