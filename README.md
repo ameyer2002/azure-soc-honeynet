@@ -38,4 +38,20 @@ Microsoft Sentinel
 
 # Attack Maps Before Hardening / Security Controls
 ![image](https://github.com/user-attachments/assets/c504e1d8-b0b5-4801-8ac3-2e14cfe4ca31)
+![image](https://github.com/user-attachments/assets/fec3ee3a-f0c1-4b06-9787-a2e6ce2e24a3)
+![image](https://github.com/user-attachments/assets/5a36016f-eded-4dae-9d8d-cb3ce77ec676)
+
+# Metrics Before Hardening / Security Controls
+The following table shows the metrics we measured in our insecure environment for 24 hours:
+Start Time 2024-12-29 05:05:48
+Stop Time 2024-12-30 05:05:48
+
+Metric	Count
+SecurityEvent	7671
+Syslog	833
+SecurityAlert	4
+SecurityIncident	59
+AzureNetworkAnalytics_CL	620
+
+
 
