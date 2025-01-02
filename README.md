@@ -68,6 +68,14 @@ Start Time 2025-01-01 12:34:01
 
 Stop Time 2025-01-02 12:34:01
 
+| Metric | Count |
+| ---- | ---- |
+| SecurityEvent | 4109 |
+| Syslog | 4 |
+| SecurityAlert | 0 |
+| SecurityIncident | 0 |
+| AzureNetworkAnalytics_CL | 0 |
+
 
 
 
