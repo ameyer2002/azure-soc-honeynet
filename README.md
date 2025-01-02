@@ -76,6 +76,14 @@ Stop Time 2025-01-02 12:34:01
 | SecurityIncident | 0 |
 | AzureNetworkAnalytics_CL | 0 |
 
+| Metric | Change after hardening security environment |
+| ---- | ---- |
+| SecurityEvent | 50.07% |
+| Syslog | 99.46% |
+| SecurityAlert | 100.00% |
+| SecurityIncident | 100.00% |
+| AzureNetworkAnalytics_CL | 100.00% |
+
 
 
 
