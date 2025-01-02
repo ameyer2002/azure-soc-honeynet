@@ -84,6 +84,10 @@ Stop Time 2025-01-02 12:34:01
 | SecurityIncident | 100.00% |
 | AzureNetworkAnalytics_CL | 100.00% |
 
+# Summary
+This project involved building a small honeynet in Microsoft Azure and pushing the logs into a Log Analytics Workspace for analysis. On the basis of the ingested data, Microsoft Sentinel was also used to generate incidents and set off alerts. Metrics were also taken in the unprotected setting prior to the application of security controls and again with security measures in place. After the security controls were implemented, the quantity of security events and incidents significantly decreased.
+
+
 
 
 
