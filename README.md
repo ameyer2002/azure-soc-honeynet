@@ -50,15 +50,15 @@ Stop Time 2024-12-30 05:05:48
 
 | Metric | Count |
 ------------------
-| SecurityEvent |	            7671
+| SecurityEvent | 7671 |
 
-Syslog	                  833
+| Syslog | 833 |
 
-SecurityAlert	            4
+| SecurityAlert | 4 |
 
-SecurityIncident	        59
+| SecurityIncident | 59 |
 
-AzureNetworkAnalytics_CL	620
+| AzureNetworkAnalytics_CL | 620 |
 
 
 
