@@ -43,14 +43,21 @@ Microsoft Sentinel
 
 # Metrics Before Hardening / Security Controls
 The following table shows the metrics we measured in our insecure environment for 24 hours:
+
 Start Time 2024-12-29 05:05:48
+
 Stop Time 2024-12-30 05:05:48
 
-Metric	Count
-SecurityEvent	7671
-Syslog	833
-SecurityAlert	4
-SecurityIncident	59
+Metric	                  Count
+
+SecurityEvent	            7671
+
+Syslog	                  833
+
+SecurityAlert	            4
+
+SecurityIncident	        59
+
 AzureNetworkAnalytics_CL	620
 
 
