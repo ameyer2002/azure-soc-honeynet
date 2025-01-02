@@ -49,8 +49,8 @@ Start Time 2024-12-29 05:05:48
 Stop Time 2024-12-30 05:05:48
 
 | Metric | Count |
-
-SecurityEvent	            7671
+------------------
+| SecurityEvent |	            7671
 
 Syslog	                  833
 
